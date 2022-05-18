@@ -35,11 +35,11 @@ const Navbar = () => {
           <MdOutlineRestaurantMenu color="#fff" fontSize={27} className="overlay__close" onClick={() => setToggleMenu(false)} />
 
           <ul className="app__navbar-smallscreen-links">
-            <li className="p__opensans"><a href="#home">Home</a></li>
-            <li className="p__opensans"><a href="#about">About</a></li>
-            <li className="p__opensans"><a href="#menu">Menu</a></li>
-            <li className="p__opensans"><a href="#awards">Awards</a></li>
-            <li className="p__opensans"><a href="#contact">Contact</a></li>
+            <li className="p__cormorant hover:text-gold"><a href="#home">Home</a></li>
+            <li className="p__cormorant hover:text-gold"><a href="#about">About</a></li>
+            <li className="p__cormorant hover:text-gold"><a href="#menu">Menu</a></li>
+            <li className="p__cormorant hover:text-gold"><a href="#awards">Awards</a></li>
+            <li className="p__cormorant hover:text-gold"><a href="#contact">Contact</a></li>
           </ul>
         </div>
       )}
