@@ -1,0 +1,27 @@
+.app__menuitem {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__menuitem-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app__menuitem-name {
+  flex: 1;
+}
+
+.app__menuitem-dash {
+  width: 90px;
+  height: 1px;
+  left: 224px;
+  top: 14.5px;
+}
+
+.app__menuitem-price {
+  display: flex; 
+  justify-content: flex-end;
+  align-items: flex-end;
+}
