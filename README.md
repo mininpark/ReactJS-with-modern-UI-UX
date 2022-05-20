@@ -1,7 +1,5 @@
 # ReactJS with Tailwind CSS for modern UI/UX Reastaurant website
 
-LiveURL: https://react-js-with-modern-ui-ux-hosting.vercel.app/
-
 Live URL: [https://react-js-with-modern-ui-ux-hosting.vercel.app/](https://react-js-with-modern-ui-ux-hosting.vercel.app/)
 
 ## My process
