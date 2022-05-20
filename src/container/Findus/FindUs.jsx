@@ -2,8 +2,10 @@ import React from 'react';
 import { images } from '../../constants';
 import { SubHeading } from '../../components';
 
+import '../Footer/Footer.css'
+
 const FindUs = () => (
-  <div className="app__bg app__wrapper section__padding" id="contact">
+  <div className="app__bg flex-between h-fit flex section__padding" id="contact">
     <div className="app__wrapper_info">
       <SubHeading title="Contact" />
       <h1 className="headtext__cormorant mb-12">Find Us</h1>

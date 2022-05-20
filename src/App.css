@@ -175,3 +175,10 @@
     line-height: 70px;
   }
 }
+
+/* iPhone landscape range */
+@media (min-width:321px) and (max-width:450px) {
+    html { font-size:1.2em }
+}
+
+

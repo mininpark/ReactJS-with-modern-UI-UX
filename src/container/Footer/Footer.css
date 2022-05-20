@@ -1,0 +1,13 @@
+.app__footer {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 1080px ){
+  .app__wrapper_img img {
+    display:none;
+  }
+  #contact {
+    flex-direction: column;
+  }
+}
